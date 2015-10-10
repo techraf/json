@@ -49,6 +49,10 @@ for updates to json.
    *Note: This used to be called 'jsontool' in the npm registry, but as of
    version 8.0.0 it has taken over the 'json' name. See [npm Package
    Name](#npm-package-name) below.*
+   
+3. `ln -s ~/.node_modules/lib/node_modules/json/lib/json.js ~/json`
+
+   *Note: not in the original procedure, but seemingly required on (my) OSX
 
 **OR manually**:
 
